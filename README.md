@@ -1,3 +1,5 @@
+Davinci  大屏智能化,基于sql,excel等数据源直接展示
+
 # Davinci - DVaaS (Data Visualization as a Service) Solution
 [![](https://camo.githubusercontent.com/8cb994f6c4a156c623fe057fccd7fb7d7d2e8c9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322d3445423142412e737667)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![](https://camo.githubusercontent.com/0a56ffb0993fb7eee49b4dcacbd16f6cd6c7a36c/68747470733a2f2f746f6b65692e72732f62312f6769746875622f6564703936332f646176696e63693f63617465676f72793d6c696e6573)](https://github.com/edp963/davinci)
